@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    height: 30px;
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.navbar-dark .navbar-toggler{
+    border: solid 1px #fff;
+}
+.card>hr{
+    width: 80%;
+    margin: 0 auto;
+}
+.text-gray{
+    color: #707070;
+}
+.location-text{
+    font-size: .8em;
+}
+.price-text{
+    font-size: 1.3em;
+    font-weight: 500;
+}
+section p{
+    font-size: 1.4em;
+    font-weight: 500;
+    margin: auto;
+}
+section button{
+    font-weight: 500;
+}
+.content-footer img{
+    height: 30px;
+    margin: 5px auto;
+}
